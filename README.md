@@ -15,6 +15,8 @@ $ mvn clean package
 $ java -jar -Dspring.profiles.active=initial-data target/assignment.jar
 ```
 
+React application is built with Maven as well. (Maven triggers npm scripts)
+
 ## Implementation notes
 
 * When`initial-data` profile is given 2 sample users is created when the app started. 
