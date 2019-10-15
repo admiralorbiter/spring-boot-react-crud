@@ -1,4 +1,4 @@
-# Assignment
+# Spring Boot React user CRUD
 
 ## Building & running
 
